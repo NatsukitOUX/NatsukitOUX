@@ -4,7 +4,7 @@
 🛠️ Hands-on with penetration testing, OSINT, and cloud security — from exploiting Metasploitable boxes to passive recon and social engineering analysis<br><br>
 🧩 Open-source contributor to **LibreOffice core** (C++) — merged patches replacing `#include` guards with `#pragma once` in the `comphelper` module ([tdf#143148](https://bugs.documentfoundation.org/show_bug.cgi?id=143148), [Gerrit 203432](https://gerrit.libreoffice.org/c/core/+/203432)) and modernising lookups to C++20 `contains()` ([tdf#158237](https://bugs.documentfoundation.org/show_bug.cgi?id=158237), [Gerrit 198893](https://gerrit.libreoffice.org/c/core/+/198893))<br><br>
 🌍 Trilingual: Arabic (native), English (C1), French (C1)<br><br>
-📫 Available for a cybersecurity internship (pentesting, cloud security, GRC, SOC), July–October 2026
+📫 Available for a cybersecurity internship (pentesting, cloud security, GRC), December 2026
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1017184821597982781)
